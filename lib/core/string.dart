@@ -1,0 +1,1 @@
+const kurl="https://api.themoviedb.org/3";
